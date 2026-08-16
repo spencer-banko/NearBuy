@@ -2,6 +2,10 @@
 
 An iPhone-first Expo app prototype for discovering local NYC clothing purchases through personal ranked shelves. Think Beli, but for clothes people buy nearby.
 
+## Demo video
+
+[![Watch the demo](https://img.youtube.com/vi/Hg9G2ZrX3rA/0.jpg)](https://www.youtube.com/watch?v=Hg9G2ZrX3rA)
+
 ## What is built
 
 - **Beli-style setup for shopping**: save things you want, log things you bought, and keep both in one social discovery loop.
